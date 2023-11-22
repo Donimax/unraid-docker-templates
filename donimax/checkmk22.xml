@@ -7,5 +7,5 @@
   <Name>Checkmk 2.2.0</Name>
   <Description>Monitors local services and reports any issues to the Checkmk server.</Description>
   <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
-    <IconFA>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</IconFA>
+  <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>
 </Containers>

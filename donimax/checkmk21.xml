@@ -5,7 +5,9 @@
   <Beta>False</Beta>
   <Category>Network:Management Tools:System</Category>
   <Name>Checkmk 2.1.0</Name>
-  <Description>Monitors local services and reports any issues to the Checkmk server.</Description>
+  <Description>
+  Deprecated, please use the newer version (>= 2.2.0) of this plugin. This plugin will be removed in a future.
+  </Description>
   <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
   <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>
 </Containers>

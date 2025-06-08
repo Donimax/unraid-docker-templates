@@ -5,7 +5,10 @@
   <Beta>False</Beta>
   <Category>Network:Management Tools:System</Category>
   <Name>Checkmk 2.3.0</Name>
-  <Description>Monitors local services and reports any issues to the Checkmk server.</Description>
+  <Description>
+  Monitors local services and reports any issues to the Checkmk server.
+  Please cosider using the version 2.4.0 of this plugin for new installations. EOL for this version is 29.10.2026.
+  </Description>
   <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
   <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>
 </Containers>

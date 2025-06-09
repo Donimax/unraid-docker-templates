@@ -3,6 +3,7 @@
   <PluginURL>https://raw.githubusercontent.com/donimax/unraid-check-mk-agent/master/check_mk_agent21.plg</PluginURL>
   <PluginAuthor>donimax</PluginAuthor>
   <Beta>False</Beta>
+  <Requires>Checkmk Server</Requires>
   <Category>Network:Management Tools:System</Category>
   <Name>Checkmk 2.1.0</Name>
   <Description>

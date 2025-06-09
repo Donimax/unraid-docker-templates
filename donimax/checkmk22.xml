@@ -8,6 +8,9 @@
   <Description>
   Monitors local services and reports any issues to the Checkmk server.
   Please cosider using the version 2.4.0 of this plugin for new installations. EOL for this version is 23.11.2025.
+
+  For monitoring docker deamon and SMART, follow the instructions in the README file.
+  https://github.com/Donimax/unraid-check-mk-agent?tab=readme-ov-file#checkmk-docker-and-smart-plugin
   </Description>
   <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
   <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>

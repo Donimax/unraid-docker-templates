@@ -12,6 +12,6 @@
   For monitoring docker deamon and SMART, follow the instructions in the README file.
   https://github.com/Donimax/unraid-check-mk-agent?tab=readme-ov-file#checkmk-docker-and-smart-plugin
   </Description>
-  <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
+  <Support>https://forums.unraid.net/profile/266669-donimax/</Support>
   <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>
 </Containers>

@@ -9,6 +9,6 @@
   <Description>
   Deprecated, please use the newer version (>= 2.2.0) of this plugin. This plugin will be removed in a future.
   </Description>
-  <Support>https://github.com/Donimax/unraid-check-mk-agent/issues</Support>
+  <Support>https://forums.unraid.net/profile/266669-donimax/</Support>
   <Icon>https://raw.githubusercontent.com/donimax/unraid-docker-templates/master/donimax/images/checkmk.png</Icon>
 </Containers>
